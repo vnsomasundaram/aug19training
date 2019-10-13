@@ -6,3 +6,4 @@ Hi this is som
 running in slave machine
 again runing centos
 running
+hi
